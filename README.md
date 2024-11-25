@@ -14,7 +14,8 @@
 <td align="center"><img src="https://avatars.githubusercontent.com/u/115773895?v=4" width="150" /></td>
 <td align="center"><img src="https://avatars.githubusercontent.com/u/61671704?v=4" width="150" /></td>
 <td align="center"><img src="https://avatars.githubusercontent.com/u/172836819?v=4" width="150" /></td> 
-<td align="center"><img src="https://avatars.githubusercontent.com/u/88234368?v=4" width="150" /></td> 
+<td align="center"><img src="https://avatars.githubusercontent.com/u/88234368?v=4" width="150" /></td>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/98688955?v=4" width="150" /></td>
 </tr>
 <tr>
 <th align="center">김형진</th>
@@ -22,6 +23,7 @@
 <th align="center">김민준</th>
 <th align="center">최수현</th>
 <th align="center">김지원</th>
+<th align="center">수지</th>
 </tr>
 <tr>
 <td align="center" width="170"><a href="https://github.com/hjkimw">@hjkimw</a></td>
@@ -29,6 +31,8 @@
 <td align="center" width="170"><a href="https://github.com/mj0107">@mj0107</a></td>
 <td align="center" width="170"><a href="https://github.com/saysuhyun">@saysuhyun</a></td>
 <td align="center" width="170"><a href="https://github.com/CodingWon">@CodingWon</a></td>
+<td align="center" width="170"><a href="https://github.com/sooozi">@sooozi</a></td>
+  
 </tr>
 </tbody>
 </table>
